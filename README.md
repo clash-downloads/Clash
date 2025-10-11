@@ -6,42 +6,42 @@
 
 ### :pushpin: Clash Verge Rev
 - **下载地址**：[GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
-- **使用教程**：[]()
+- **使用教程**：[https://clashverge.com/](https://clashverge.com/)
 - **支持平台**：Windows、macOS、Linux
 
 ### :pushpin: Clash Party
 - **下载地址**：[GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases)
-- **使用教程**：[]()
+- **使用教程**：[https://clash-party.org/](https://clash-party.org/)
 - **支持平台**：Windows、macOS、Linux
 
 ### :pushpin: Clash Mi
 - **下载地址**：[GitHub Releases](https://github.com/KaringX/clashmi/releases)
-- **使用教程**：[]()
+- **使用教程**：[https://clash-mi.org/](https://clash-mi.org/)
 - **支持平台**：Windows、macOS、Linux、iOS、Android
 
 ### :pushpin: ClashX Meta
 - **下载地址**：[GitHub Releases](https://github.com/MetaCubeX/ClashX.Meta/releases)
-- **使用教程**：[]()
+- **使用教程**：[https://clashxmeta.org/](https://clashxmeta.org/)
 - **支持平台**：macOS
 
 ### :pushpin: Clash Meta for Android
 - **下载地址**：[GitHub Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-- **使用教程**：[]()
+- **使用教程**：[https://clashmetaforandroid.org/](https://clashmetaforandroid.org/)
 - **支持平台**：Android
 
 ### :pushpin: FlClash
 - **下载地址**：[GitHub Releases](https://github.com/chen08209/FlClash/releases)
-- **使用教程**：[]()
+- **使用教程**：[https://getflclash.org/](https://getflclash.org/)
 - **支持平台**：Windows、macOS、Linux、Android
 
 ### :pushpin: Hiddify
 - **下载地址**：[GitHub Releases](https://github.com/hiddify/hiddify-app/releases)
-- **使用教程**：[]()
+- **使用教程**：[https://gethiddify.org/](https://gethiddify.org/)
 - **支持平台**：Windows、macOS、Linux、iOS、Android
 
 ### :pushpin: Clash Nyanpasu
 - **下载地址**：[GitHub Releases](https://github.com/LibNyanpasu/clash-nyanpasu/releases)
-- **使用教程**：[]()
+- **使用教程**：[https://clashnyanpasu.org/](https://clashnyanpasu.org/)
 - **支持平台**：Windows、macOS、Linux
 
 ---
@@ -50,17 +50,17 @@
 
 ### :pushpin: Clash for Windows
 - **下载地址**：[GitHub备份](https://github.com/clash-downloads/Clash-for-Windows)
-- **使用教程**：[]()
+- **使用教程**：[https://clashforwindows.org/](https://clashforwindows.org/)
 - **支持平台**：Windows、macOS、Linux
 
 ### :pushpin: ClashX
 - **下载地址**：[GitHub备份](https://github.com/clash-downloads/ClashX)
-- **使用教程**：[]()
+- **使用教程**：[https://clashx.org/](https://clashx.org/)
 - **支持平台**：macOS
 
 ### :pushpin: Clash for Android
 - **下载地址**：[GitHub备份](https://github.com/clash-downloads/Clash-for-Android)
-- **使用教程**：[]()
+- **使用教程**：[https://clashforandroid.org/](https://clashforandroid.org/)
 - **支持平台**：Android
 
 ### :pushpin: Clash Verge
